@@ -2923,7 +2923,7 @@ Repository: sindresorhus/shebang-regex
 ## shell-quote
 License: MIT
 By: James Halliday
-Repository: http://github.com/substack/node-shell-quote.git
+Repository: http://github.com/ljharb/shell-quote.git
 
 > The MIT License
 > 
